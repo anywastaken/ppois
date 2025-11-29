@@ -1,0 +1,5 @@
+
+
+
+class TruckSizeError(Exception):
+    pass

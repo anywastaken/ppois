@@ -1,0 +1,5 @@
+
+
+
+class NotEnoughItemsForTruckError(Exception):
+    pass
