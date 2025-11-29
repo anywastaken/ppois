@@ -14,14 +14,14 @@ DiskMachine 6 3 -> Disk BluePrint
 Machine 6 3 -> BluePrint Assembly Detail  
 ProductionMachine 6 3 -> BluePrint ProducedDetail  
 TireMachine 6 3 -> Tire BluePrint  
-WheelAssemblyMachine 6 3 -> Disk Tire Wheel Assembly
+WheelAssemblyMachine 6 3 -> Disk Tire Wheel Assembly  
 DefectReport 5 1 -> Detail Worker Machine Maintenance  
 Factory 5 0 -> Workshop FactoryExport FactoryImport InnerStorage  
 FactoryExport 2 3 -> DeliveryTruck Warehouse  
 FactoryImport 2 2 -> InnerStorage  
 InnerStorage 3 2 -> Detail Material FactoryExport  
 Maintenance 2 3 -> Machine DefectReport  
-ProductionLine 4 8 -> Detail Machine Maintenance FactoryExport InnerStorage
+ProductionLine 4 8 -> Detail Machine Maintenance FactoryExport InnerStorage  
 Workshop 4 0 -> ProductionLine  
 CastIron 5 2 ->  
 Glass 4 2 ->  
@@ -47,9 +47,9 @@ DeliveryTruk 5 3 -> Detail Driver Warehouse
 DetailStorageCell 3 3 -> Detail WarehouseExport  
 MaterialStorageCell 3 3 -> Material WarehouseExport  
 Supplier 3 1 -> Contract  
-Warehouse 9 0 -> Security DeliveryTruck DetailStorageCell MaterialStorageCell WarehouseExport WarehouseImport
-WarehouseExport 3 6 -> DeliveryTruck
-WarehouseImport 3 5 -> Detail Material
+Warehouse 9 0 -> Security DeliveryTruck DetailStorageCell MaterialStorageCell WarehouseExport WarehouseImport  
+WarehouseExport 3 6 -> DeliveryTruck  
+WarehouseImport 3 5 -> Detail Material  
 
 Exceptions (12)
 ---------------
