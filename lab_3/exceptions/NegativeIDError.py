@@ -1,0 +1,2 @@
+class NegativeIDError(Exception):
+    pass

@@ -1,0 +1,2 @@
+class TwoFactorRequiredException(Exception):
+    pass

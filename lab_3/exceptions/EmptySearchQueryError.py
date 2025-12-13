@@ -1,0 +1,2 @@
+class EmptySearchQueryError(Exception):
+    pass

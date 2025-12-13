@@ -1,0 +1,2 @@
+class EmptyUsernameError(Exception):
+    pass
