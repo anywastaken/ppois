@@ -47,8 +47,8 @@ PasswordHasher 0 2 ->
 TwoFactorAuth 1 3 ->  
 Session 6 0 ->  
 Friend 2 5 ->  
-Subscription 4 3 ->
-Profile 9 7 ->
+Subscription 4 3 ->  
+Profile 9 7 ->  
 User 15 10 -> PasswordHasher UserProfile Post Subscription Session  
 UserProfile 9 6 -> Feed  
 
