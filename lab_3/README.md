@@ -69,7 +69,7 @@ UserNotFoundException
 
 Summary
 -------
-Classes: 51
+Classes: 51  
 Fields: 232  
 Behaviors: 312  
 Associations: 56  
