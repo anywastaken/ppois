@@ -58,3 +58,12 @@ Exception.py           # Кастомные исключения (IncorrectDataI
 Menu.py                # Логика консольного меню
 Database/              # Директория с JSON-файлами (создается автоматически)
 tests/                 # Набор Unit-тестов (Pytest)
+
+## Запуск CLI
+```bash
+# Активация окружения (Linux)
+source .venv/bin/activate
+
+# Запуск
+python3 main.py
+```
