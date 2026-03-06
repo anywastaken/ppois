@@ -67,3 +67,7 @@ source .venv/bin/activate
 # Запуск
 python3 main.py
 ```
+## Запуск тестов
+```bash
+pytest --cov
+```
