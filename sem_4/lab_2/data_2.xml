@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inventory>
+    <product>
+        <name>Коммутатор Cisco Catalyst 2960</name>
+        <manufacturer>Cisco Systems</manufacturer>
+        <unp>510223344</unp>
+        <quantity>4</quantity>
+        <address>г. Минск, ул. Шафарнянская, 18</address>
+    </product>
+    <product>
+        <name>Маршрутизатор MikroTik RB4011</name>
+        <manufacturer>MikroTik</manufacturer>
+        <unp>520334455</unp>
+        <quantity>12</quantity>
+        <address>г. Минск, ул. Шафарнянская, 18</address>
+    </product>
+    <product>
+        <name>МФУ HP LaserJet Pro</name>
+        <manufacturer>HP Inc.</manufacturer>
+        <unp>380889900</unp>
+        <quantity>нет на складе</quantity>
+        <address>г. Минск, ул. Шафарнянская, 18</address>
+    </product>
+    <product>
+        <name>Мышь Logitech G502</name>
+        <manufacturer>Logitech</manufacturer>
+        <unp>120887766</unp>
+        <quantity>45</quantity>
+        <address>г. Минск, ул. Шафарнянская, 18</address>
+    </product>
+    <product>
+        <name>SSD Samsung 980 Pro 1TB</name>
+        <manufacturer>Samsung Electronics</manufacturer>
+        <unp>800119922</unp>
+        <quantity>15</quantity>
+        <address>г. Минск, ул. Шафарнянская, 18</address>
+    </product>
+    <product>
+        <name>Точка доступа Cisco Aironet</name>
+        <manufacturer>Cisco Systems</manufacturer>
+        <unp>510223344</unp>
+        <quantity>8</quantity>
+        <address>г. Минск, ул. Шафарнянская, 18</address>
+    </product>
+    <product>
+        <name>SFP-модуль MikroTik S+31DLC10D</name>
+        <manufacturer>MikroTik</manufacturer>
+        <unp>520334455</unp>
+        <quantity>100</quantity>
+        <address>г. Минск, ул. Шафарнянская, 18</address>
+    </product>
+    <product>
+        <name>Ноутбук HP 250 G8</name>
+        <manufacturer>HP Inc.</manufacturer>
+        <unp>380889900</unp>
+        <quantity>5</quantity>
+        <address>г. Минск, ул. Шафарнянская, 18</address>
+    </product>
+    <product>
+        <name>Клавиатура Logitech K120</name>
+        <manufacturer>Logitech</manufacturer>
+        <unp>120887766</unp>
+        <quantity>50</quantity>
+        <address>г. Минск, ул. Шафарнянская, 18</address>
+    </product>
+    <product>
+        <name>Монитор Samsung Odyssey G5</name>
+        <manufacturer>Samsung Electronics</manufacturer>
+        <unp>800119922</unp>
+        <quantity>нет на складе</quantity>
+        <address>г. Минск, ул. Шафарнянская, 18</address>
+    </product>
+    <product>
+        <name>Точка доступа Ubiquiti (Cisco Equivalent)</name>
+        <manufacturer>Cisco Systems</manufacturer>
+        <unp>510223344</unp>
+        <quantity>нет на складе</quantity>
+        <address>г. Гродно, ул. Лиможа, 30</address>
+    </product>
+    <product>
+        <name>Коммутатор MikroTik CRS326</name>
+        <manufacturer>MikroTik</manufacturer>
+        <unp>520334455</unp>
+        <quantity>3</quantity>
+        <address>г. Гродно, ул. Лиможа, 30</address>
+    </product>
+    <product>
+        <name>Сервер HP ProLiant DL380</name>
+        <manufacturer>HP Inc.</manufacturer>
+        <unp>380889900</unp>
+        <quantity>1</quantity>
+        <address>г. Гродно, ул. Лиможа, 30</address>
+    </product>
+    <product>
+        <name>Веб-камера Logitech C920</name>
+        <manufacturer>Logitech</manufacturer>
+        <unp>120887766</unp>
+        <quantity>12</quantity>
+        <address>г. Гродно, ул. Лиможа, 30</address>
+    </product>
+    <product>
+        <name>Смартфон Samsung Galaxy S23</name>
+        <manufacturer>Samsung Electronics</manufacturer>
+        <unp>800119922</unp>
+        <quantity>20</quantity>
+        <address>г. Гродно, ул. Лиможа, 30</address>
+    </product>
+    <product>
+        <name>IP-телефон Cisco 7821</name>
+        <manufacturer>Cisco Systems</manufacturer>
+        <unp>510223344</unp>
+        <quantity>15</quantity>
+        <address>г. Гродно, ул. Лиможа, 30</address>
+    </product>
+    <product>
+        <name>Антенна MikroTik mANT30</name>
+        <manufacturer>MikroTik</manufacturer>
+        <unp>520334455</unp>
+        <quantity>10</quantity>
+        <address>г. Гродно, ул. Лиможа, 30</address>
+    </product>
+    <product>
+        <name>Принтер HP LaserJet M110w</name>
+        <manufacturer>HP Inc.</manufacturer>
+        <unp>380889900</unp>
+        <quantity>8</quantity>
+        <address>г. Гродно, ул. Лиможа, 30</address>
+    </product>
+    <product>
+        <name>Гарнитура Logitech Zone</name>
+        <manufacturer>Logitech</manufacturer>
+        <unp>120887766</unp>
+        <quantity>нет на складе</quantity>
+        <address>г. Гродно, ул. Лиможа, 30</address>
+    </product>
+    <product>
+        <name>Планшет Samsung Galaxy Tab S8</name>
+        <manufacturer>Samsung Electronics</manufacturer>
+        <unp>800119922</unp>
+        <quantity>5</quantity>
+        <address>г. Гродно, ул. Лиможа, 30</address>
+    </product>
+    <product>
+        <name>Маршрутизатор Cisco ISR 4331</name>
+        <manufacturer>Cisco Systems</manufacturer>
+        <unp>510223344</unp>
+        <quantity>2</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Радиорелейная станция MikroTik</name>
+        <manufacturer>MikroTik</manufacturer>
+        <unp>520334455</unp>
+        <quantity>4</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Сканер HP ScanJet Pro</name>
+        <manufacturer>HP Inc.</manufacturer>
+        <unp>380889900</unp>
+        <quantity>6</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Презентер Logitech R400</name>
+        <manufacturer>Logitech</manufacturer>
+        <unp>120887766</unp>
+        <quantity>30</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Телевизор Samsung QLED 55</name>
+        <manufacturer>Samsung Electronics</manufacturer>
+        <unp>800119922</unp>
+        <quantity>нет на складе</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Блок питания Cisco PSU</name>
+        <manufacturer>Cisco Systems</manufacturer>
+        <unp>510223344</unp>
+        <quantity>10</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Корпус MikroTik CA433U</name>
+        <manufacturer>MikroTik</manufacturer>
+        <unp>520334455</unp>
+        <quantity>15</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Картридж HP 106A</name>
+        <manufacturer>HP Inc.</manufacturer>
+        <unp>380889900</unp>
+        <quantity>100</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Мышь Logitech MX Master 3</name>
+        <manufacturer>Logitech</manufacturer>
+        <unp>120887766</unp>
+        <quantity>7</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Внешний SSD Samsung T7</name>
+        <manufacturer>Samsung Electronics</manufacturer>
+        <unp>800119922</unp>
+        <quantity>25</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Коммутатор Cisco 24-port</name>
+        <manufacturer>Cisco Systems</manufacturer>
+        <unp>510223344</unp>
+        <quantity>5</quantity>
+        <address>г. Минск, ул. Шафарнянская, 18</address>
+    </product>
+    <product>
+        <name>Маршрутизатор MikroTik hAP ac2</name>
+        <manufacturer>MikroTik</manufacturer>
+        <unp>520334455</unp>
+        <quantity>12</quantity>
+        <address>г. Гродно, ул. Лиможа, 30</address>
+    </product>
+    <product>
+        <name>Принтер HP Color LaserJet</name>
+        <manufacturer>HP Inc.</manufacturer>
+        <unp>380889900</unp>
+        <quantity>2</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Колонки Logitech Z120</name>
+        <manufacturer>Logitech</manufacturer>
+        <unp>120887766</unp>
+        <quantity>40</quantity>
+        <address>г. Минск, ул. Шафарнянская, 18</address>
+    </product>
+    <product>
+        <name>Монитор Samsung 24 Curved</name>
+        <manufacturer>Samsung Electronics</manufacturer>
+        <unp>800119922</unp>
+        <quantity>15</quantity>
+        <address>г. Гродно, ул. Лиможа, 30</address>
+    </product>
+    <product>
+        <name>Консольный кабель Cisco</name>
+        <manufacturer>Cisco Systems</manufacturer>
+        <unp>510223344</unp>
+        <quantity>50</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Инжектор MikroTik PoE</name>
+        <manufacturer>MikroTik</manufacturer>
+        <unp>520334455</unp>
+        <quantity>30</quantity>
+        <address>г. Минск, ул. Шафарнянская, 18</address>
+    </product>
+    <product>
+        <name>Мышь HP 150 Wired</name>
+        <manufacturer>HP Inc.</manufacturer>
+        <unp>380889900</unp>
+        <quantity>25</quantity>
+        <address>г. Гродно, ул. Лиможа, 30</address>
+    </product>
+    <product>
+        <name>Трекбол Logitech MX Ergo</name>
+        <manufacturer>Logitech</manufacturer>
+        <unp>120887766</unp>
+        <quantity>3</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Микроволновка Samsung (Special)</name>
+        <manufacturer>Samsung Electronics</manufacturer>
+        <unp>800119922</unp>
+        <quantity>4</quantity>
+        <address>г. Минск, ул. Шафарнянская, 18</address>
+    </product>
+    <product>
+        <name>Патч-корд Cisco 1m</name>
+        <manufacturer>Cisco Systems</manufacturer>
+        <unp>510223344</unp>
+        <quantity>200</quantity>
+        <address>г. Гродно, ул. Лиможа, 30</address>
+    </product>
+    <product>
+        <name>Лицензия MikroTik Level 4</name>
+        <manufacturer>MikroTik</manufacturer>
+        <unp>520334455</unp>
+        <quantity>100</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Бумага HP Premium A4</name>
+        <manufacturer>HP Inc.</manufacturer>
+        <unp>380889900</unp>
+        <quantity>60</quantity>
+        <address>г. Минск, ул. Шафарнянская, 18</address>
+    </product>
+    <product>
+        <name>Руль Logitech G29</name>
+        <manufacturer>Logitech</manufacturer>
+        <unp>120887766</unp>
+        <quantity>нет на складе</quantity>
+        <address>г. Гродно, ул. Лиможа, 30</address>
+    </product>
+    <product>
+        <name>Пылесос Samsung Jet</name>
+        <manufacturer>Samsung Electronics</manufacturer>
+        <unp>800119922</unp>
+        <quantity>2</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Трансивер Cisco QSFP</name>
+        <manufacturer>Cisco Systems</manufacturer>
+        <unp>510223344</unp>
+        <quantity>6</quantity>
+        <address>г. Минск, ул. Шафарнянская, 18</address>
+    </product>
+    <product>
+        <name>Крепление MikroTik QuickMOUNT</name>
+        <manufacturer>MikroTik</manufacturer>
+        <unp>520334455</unp>
+        <quantity>20</quantity>
+        <address>г. Гродно, ул. Лиможа, 30</address>
+    </product>
+    <product>
+        <name>Клавиатура HP Pavilion</name>
+        <manufacturer>HP Inc.</manufacturer>
+        <unp>380889900</unp>
+        <quantity>12</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Веб-камера Logitech StreamCam</name>
+        <manufacturer>Logitech</manufacturer>
+        <unp>120887766</unp>
+        <quantity>5</quantity>
+        <address>г. Минск, ул. Шафарнянская, 18</address>
+    </product>
+    <product>
+        <name>Память Samsung DDR4 16GB</name>
+        <manufacturer>Samsung Electronics</manufacturer>
+        <unp>800119922</unp>
+        <quantity>40</quantity>
+        <address>г. Гродно, ул. Лиможа, 30</address>
+    </product>
+    <product>
+        <name>test_statment</name>
+        <manufacturer>test</manufacturer>
+        <unp>123</unp>
+        <quantity>нет на складе</quantity>
+        <address>тут</address>
+    </product>
+</inventory>

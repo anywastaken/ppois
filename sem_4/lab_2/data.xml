@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inventory>
+    <product>
+        <name>Процессор Intel Core i5-12400F</name>
+        <manufacturer>Intel Corporation</manufacturer>
+        <unp>100234567</unp>
+        <quantity>15</quantity>
+        <address>г. Минск, ул. П. Бровки, 6</address>
+    </product>
+    <product>
+        <name>Клавиатура Logitech G213</name>
+        <manufacturer>Logitech</manufacturer>
+        <unp>400998877</unp>
+        <quantity>25</quantity>
+        <address>г. Минск, ул. П. Бровки, 6</address>
+    </product>
+    <product>
+        <name>SSD Samsung 980 Pro 1TB</name>
+        <manufacturer>Samsung</manufacturer>
+        <unp>230345678</unp>
+        <quantity>нет на складе</quantity>
+        <address>г. Минск, ул. П. Бровки, 6</address>
+    </product>
+    <product>
+        <name>Материнская плата ASUS Prime Z790</name>
+        <manufacturer>ASUS</manufacturer>
+        <unp>110223344</unp>
+        <quantity>нет на складе</quantity>
+        <address>г. Минск, ул. П. Бровки, 6</address>
+    </product>
+    <product>
+        <name>Видеокарта Gigabyte RTX 4060</name>
+        <manufacturer>Gigabyte Technology</manufacturer>
+        <unp>200543210</unp>
+        <quantity>4</quantity>
+        <address>г. Минск, ул. П. Бровки, 6</address>
+    </product>
+    <product>
+        <name>Процессор Intel Core i7-13700K</name>
+        <manufacturer>Intel Corporation</manufacturer>
+        <unp>100234567</unp>
+        <quantity>5</quantity>
+        <address>г. Минск, ул. П. Бровки, 6</address>
+    </product>
+    <product>
+        <name>Мышь Logitech G502</name>
+        <manufacturer>Logitech</manufacturer>
+        <unp>400998877</unp>
+        <quantity>12</quantity>
+        <address>г. Минск, ул. П. Бровки, 6</address>
+    </product>
+    <product>
+        <name>Монитор Samsung Odyssey G7</name>
+        <manufacturer>Samsung</manufacturer>
+        <unp>230345678</unp>
+        <quantity>2</quantity>
+        <address>г. Минск, ул. П. Бровки, 6</address>
+    </product>
+    <product>
+        <name>Видеокарта ASUS RTX 4070</name>
+        <manufacturer>ASUS</manufacturer>
+        <unp>110223344</unp>
+        <quantity>3</quantity>
+        <address>г. Минск, ул. П. Бровки, 6</address>
+    </product>
+    <product>
+        <name>Материнская плата Gigabyte B660M</name>
+        <manufacturer>Gigabyte Technology</manufacturer>
+        <unp>200543210</unp>
+        <quantity>нет на складе</quantity>
+        <address>г. Минск, ул. П. Бровки, 6</address>
+    </product>
+    <product>
+        <name>NUC Barebone Kit</name>
+        <manufacturer>Intel Corporation</manufacturer>
+        <unp>100234567</unp>
+        <quantity>7</quantity>
+        <address>г. Минск, ул. П. Бровки, 6</address>
+    </product>
+    <product>
+        <name>Веб-камера Logitech C922</name>
+        <manufacturer>Logitech</manufacturer>
+        <unp>400998877</unp>
+        <quantity>нет на складе</quantity>
+        <address>г. Минск, ул. П. Бровки, 6</address>
+    </product>
+    <product>
+        <name>Планшет Samsung Tab S8</name>
+        <manufacturer>Samsung</manufacturer>
+        <unp>230345678</unp>
+        <quantity>10</quantity>
+        <address>г. Минск, ул. П. Бровки, 6</address>
+    </product>
+    <product>
+        <name>Роутер ASUS RT-AX58U</name>
+        <manufacturer>ASUS</manufacturer>
+        <unp>110223344</unp>
+        <quantity>15</quantity>
+        <address>г. Минск, ул. П. Бровки, 6</address>
+    </product>
+    <product>
+        <name>Блок питания Gigabyte P750GM</name>
+        <manufacturer>Gigabyte Technology</manufacturer>
+        <unp>200543210</unp>
+        <quantity>12</quantity>
+        <address>г. Минск, ул. П. Бровки, 6</address>
+    </product>
+    <product>
+        <name>Сетевой адаптер Intel i350</name>
+        <manufacturer>Intel Corporation</manufacturer>
+        <unp>100234567</unp>
+        <quantity>20</quantity>
+        <address>г. Гродно, ул. Горького, 91</address>
+    </product>
+    <product>
+        <name>Колонки Logitech Z120</name>
+        <manufacturer>Logitech</manufacturer>
+        <unp>400998877</unp>
+        <quantity>30</quantity>
+        <address>г. Гродно, ул. Горького, 91</address>
+    </product>
+    <product>
+        <name>Монитор Samsung 27&quot; Curved</name>
+        <manufacturer>Samsung</manufacturer>
+        <unp>230345678</unp>
+        <quantity>8</quantity>
+        <address>г. Гродно, ул. Горького, 91</address>
+    </product>
+    <product>
+        <name>Материнская плата ASUS ROG Strix</name>
+        <manufacturer>ASUS</manufacturer>
+        <unp>110223344</unp>
+        <quantity>4</quantity>
+        <address>г. Гродно, ул. Горького, 91</address>
+    </product>
+    <product>
+        <name>Корпус Gigabyte C200</name>
+        <manufacturer>Gigabyte Technology</manufacturer>
+        <unp>200543210</unp>
+        <quantity>5</quantity>
+        <address>г. Гродно, ул. Горького, 91</address>
+    </product>
+    <product>
+        <name>Процессор Intel Core i3-12100</name>
+        <manufacturer>Intel Corporation</manufacturer>
+        <unp>100234567</unp>
+        <quantity>12</quantity>
+        <address>г. Гродно, ул. Горького, 91</address>
+    </product>
+    <product>
+        <name>Гарнитура Logitech G432</name>
+        <manufacturer>Logitech</manufacturer>
+        <unp>400998877</unp>
+        <quantity>нет на складе</quantity>
+        <address>г. Гродно, ул. Горького, 91</address>
+    </product>
+    <product>
+        <name>Смартфон Samsung Galaxy A54</name>
+        <manufacturer>Samsung</manufacturer>
+        <unp>230345678</unp>
+        <quantity>25</quantity>
+        <address>г. Гродно, ул. Горького, 91</address>
+    </product>
+    <product>
+        <name>Видеокарта ASUS TUF Gaming</name>
+        <manufacturer>ASUS</manufacturer>
+        <unp>110223344</unp>
+        <quantity>2</quantity>
+        <address>г. Гродно, ул. Горького, 91</address>
+    </product>
+    <product>
+        <name>Монитор Gigabyte G24F</name>
+        <manufacturer>Gigabyte Technology</manufacturer>
+        <unp>200543210</unp>
+        <quantity>6</quantity>
+        <address>г. Гродно, ул. Горького, 91</address>
+    </product>
+    <product>
+        <name>Wi-Fi модуль Intel AX210</name>
+        <manufacturer>Intel Corporation</manufacturer>
+        <unp>100234567</unp>
+        <quantity>50</quantity>
+        <address>г. Гродно, ул. Горького, 91</address>
+    </product>
+    <product>
+        <name>Микрофон Logitech Blue Yeti</name>
+        <manufacturer>Logitech</manufacturer>
+        <unp>400998877</unp>
+        <quantity>3</quantity>
+        <address>г. Гродно, ул. Горького, 91</address>
+    </product>
+    <product>
+        <name>Внешний SSD Samsung T7</name>
+        <manufacturer>Samsung</manufacturer>
+        <unp>230345678</unp>
+        <quantity>12</quantity>
+        <address>г. Гродно, ул. Горького, 91</address>
+    </product>
+    <product>
+        <name>Ноутбук ASUS Vivobook</name>
+        <manufacturer>ASUS</manufacturer>
+        <unp>110223344</unp>
+        <quantity>нет на складе</quantity>
+        <address>г. Гродно, ул. Горького, 91</address>
+    </product>
+    <product>
+        <name>Клавиатура Gigabyte Aorus</name>
+        <manufacturer>Gigabyte Technology</manufacturer>
+        <unp>200543210</unp>
+        <quantity>10</quantity>
+        <address>г. Гродно, ул. Горького, 91</address>
+    </product>
+    <product>
+        <name>Серверная плата Intel</name>
+        <manufacturer>Intel Corporation</manufacturer>
+        <unp>100234567</unp>
+        <quantity>1</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Презентер Logitech R400</name>
+        <manufacturer>Logitech</manufacturer>
+        <unp>400998877</unp>
+        <quantity>15</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Телевизор Samsung 55&quot; 4K</name>
+        <manufacturer>Samsung</manufacturer>
+        <unp>230345678</unp>
+        <quantity>4</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Наушники ASUS ROG Delta</name>
+        <manufacturer>ASUS</manufacturer>
+        <unp>110223344</unp>
+        <quantity>8</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Мышь Gigabyte Aorus M3</name>
+        <manufacturer>Gigabyte Technology</manufacturer>
+        <unp>200543210</unp>
+        <quantity>20</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>SSD Intel 670p 1TB</name>
+        <manufacturer>Intel Corporation</manufacturer>
+        <unp>100234567</unp>
+        <quantity>нет на складе</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Джойстик Logitech Extreme 3D</name>
+        <manufacturer>Logitech</manufacturer>
+        <unp>400998877</unp>
+        <quantity>6</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Саундбар Samsung HW-Q600</name>
+        <manufacturer>Samsung</manufacturer>
+        <unp>230345678</unp>
+        <quantity>3</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Монитор ASUS ProArt</name>
+        <manufacturer>ASUS</manufacturer>
+        <unp>110223344</unp>
+        <quantity>2</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Видеокарта Gigabyte Eagle</name>
+        <manufacturer>Gigabyte Technology</manufacturer>
+        <unp>200543210</unp>
+        <quantity>5</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Процессор Intel Core i9-13900K</name>
+        <manufacturer>Intel Corporation</manufacturer>
+        <unp>100234567</unp>
+        <quantity>1</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Коврик Logitech G840</name>
+        <manufacturer>Logitech</manufacturer>
+        <unp>400998877</unp>
+        <quantity>40</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Смарт-часы Samsung Watch 6</name>
+        <manufacturer>Samsung</manufacturer>
+        <unp>230345678</unp>
+        <quantity>12</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Материнская плата ASUS TUF</name>
+        <manufacturer>ASUS</manufacturer>
+        <unp>110223344</unp>
+        <quantity>7</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Блок питания Gigabyte Aorus</name>
+        <manufacturer>Gigabyte Technology</manufacturer>
+        <unp>200543210</unp>
+        <quantity>нет на складе</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Сетевая карта Intel X550</name>
+        <manufacturer>Intel Corporation</manufacturer>
+        <unp>100234567</unp>
+        <quantity>10</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Руль Logitech G29</name>
+        <manufacturer>Logitech</manufacturer>
+        <unp>400998877</unp>
+        <quantity>1</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Микроволновка Samsung MS23</name>
+        <manufacturer>Samsung</manufacturer>
+        <unp>230345678</unp>
+        <quantity>15</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>Проектор ASUS ZenBeam</name>
+        <manufacturer>ASUS</manufacturer>
+        <unp>110223344</unp>
+        <quantity>нет на складе</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+    <product>
+        <name>SSD Gigabyte Aorus 2TB</name>
+        <manufacturer>Gigabyte Technology</manufacturer>
+        <unp>200543210</unp>
+        <quantity>8</quantity>
+        <address>г. Брест, ул. Московская, 202</address>
+    </product>
+</inventory>
